@@ -1,0 +1,50 @@
+{
+    "paths": {
+        "e0ZgA7mWtDmLoDkSL19cG1": [
+            "Prefabs/SdkPop",
+            "cc.Prefab"
+        ]
+    },
+    "uuids": [
+        "02delMVqdBD70a/HSD99FK",
+        "29FYIk+N1GYaeWH/q1NxQO",
+        "a2MjXRFdtLlYQ5ouAFv/+R",
+        "e0ZgA7mWtDmLoDkSL19cG1",
+        "e97GVMl6JHh5Ml5qEDdSGa",
+        "ecpdLyjvZBwrvm+cedCcQy",
+        "f0BIwQ8D5Ml7nTNQbh1YlS"
+    ],
+    "scenes": {},
+    "redirect": [
+        "02delMVqdBD70a/HSD99FK",
+        0,
+        "29FYIk+N1GYaeWH/q1NxQO",
+        1,
+        "e97GVMl6JHh5Ml5qEDdSGa",
+        1,
+        "ecpdLyjvZBwrvm+cedCcQy",
+        0,
+        "f0BIwQ8D5Ml7nTNQbh1YlS",
+        1
+    ],
+    "deps": [
+        "internal",
+        "resources"
+    ],
+    "packs": {},
+    "name": "SDKBundle",
+    "importBase": "import",
+    "nativeBase": "native",
+    "debug": true,
+    "isZip": false,
+    "encrypted": false,
+    "versions": {
+        "import": [
+            "a2MjXRFdtLlYQ5ouAFv/+R",
+            "1ce52",
+            "e0ZgA7mWtDmLoDkSL19cG1",
+            "6f681"
+        ],
+        "native": []
+    }
+}
